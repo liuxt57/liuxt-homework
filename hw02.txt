@@ -1,4 +1,5 @@
 part1
+
 1.72000
 2.101
 3.122
@@ -10,6 +11,7 @@ part1
 
 
 part2
+
 1)Information is any entity or form that provides the answer to a question of some kind or 
 resolves uncertainty. It is thus related to data and knowledge, as data represents values attributed 
 to pameters, and knowledge signifies understanding of real things or abstract concept.
