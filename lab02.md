@@ -1,6 +1,6 @@
 # 以Construct2制作'Ghost Shooter'演示游戏
 
-
+![游戏演示](C:\Users\14347\Desktop\新建文件夹\liuxt-homework\游戏演示1.gif)
 
 
 
@@ -210,7 +210,6 @@ Action: Player -> Destroy
 
 
 
-- 
 
 
 
