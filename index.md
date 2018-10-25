@@ -7,6 +7,7 @@
 3. [03-转换、解释与证明](hw03)
 4. [04-维基释义与回答问题](hw04)
 5. [05-Gates and Circuits](hw05)
+6. [06-Computing Components](hw06)
 
 
 
