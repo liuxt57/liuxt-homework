@@ -8,6 +8,7 @@
 4. [04-维基释义与回答问题](hw04)
 5. [05-Gates and Circuits](hw05)
 6. [06-Computing Components](hw06)
+7. [07-Programming Barely](hw07)
 
 
 
