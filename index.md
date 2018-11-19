@@ -10,7 +10,7 @@
 6. [06-Computing Components](hw06)
 7. [07-Programming Barely](hw07)
 8. [08-Problem Solving and Algorithm Design （top-down method）](hw08)
-
+9. [09-Object Oriented Design](hw09)
 
 ## 实验与实践
 
@@ -21,7 +21,7 @@
 5. [05-电路学习](lab05)
 6. [06-X现象背后的IT规律](lab06)
 7. [07-机器语言实验报告](lab07)
-8. [08-X游戏设计](lab08)
+8. [08-躲避游戏设计](lab08)
 9. [09-洗衣机算法设计](lab09)
 10. [10-python 编程实验报告](lab10)
 11. [11-IT伦理与道德研究](lab11)
