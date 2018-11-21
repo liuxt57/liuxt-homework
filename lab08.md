@@ -1,7 +1,6 @@
 # 用construct2制作躲避小游戏
 
-![](event1.jpg)
-
+![](https://github.com/liuxt57/xxxt/blob/master/%E6%B8%B8%E6%88%8F%E6%BC%94%E7%A4%BA2.gif?raw=true)
 
 ## 概念
 
