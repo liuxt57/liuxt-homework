@@ -9,12 +9,6 @@
 ## 2.高数
 
 - 1 解方程组
-```
-        2x+y-z=10
- f(x)=  3x+2y-z=16   
-        x+6y-z=28
-
-```
 
 ```
 from sympy import *    
@@ -43,19 +37,20 @@ print(limit(f, x, 0))
 - 1 求矩阵的逆
 
 ```
->>>import numpy as np 
->>>a = np.array([[0,1,2],[1,1,4],[2,-1,0]])
->>>np.linalg.inv(a)
+import numpy as np 
+a = np.array([[0,1,2],[1,1,4],[2,-1,0]])
+np.linalg.inv(a)
 
->>>matrix([[2,-1,1],[4,-2,1],[-3/2,1,-1/2]])
+matrix([[2,-1,1],[4,-2,1],[-3/2,1,-1/2]])
 
 ```
 
 - 2 求矩阵的det
 
 ```
->>>import numpy as np 
->>>a = np.array([[1, 2, 3],[4, 5, 6],[7, 8, 9]])
->>>np.linalg.det(E)
+import numpy as np 
+a = np.array([[1, 2, 3],[4, 5, 6],[7, 8, 9]])
+np.linalg.det(E)
+
 6.6613381477509402e-16
 ```
